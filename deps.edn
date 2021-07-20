@@ -21,7 +21,7 @@
                      {com.github.seancorfield/depstar {:mvn/version "2.1.245"}}
                      :exec-fn hf.depstar/uberjar
                      :exec-args {:aot true
-                                 :main-class jira-mendix-integrator.main
+                                 :main-class scramblies-clj.main
                                  :group-id "tiagodalloca"
                                  :artifact-id "scramblies-clj"
                                  :target-dir "target/uberjar"}}}}

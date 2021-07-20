@@ -13,8 +13,5 @@
      true f2)))
 
 (comment
-  (scramble? "rekqodlw" "world") ;; => true
-  (scramble? "cedewaraaossoqqyt" "codewars") ;; => true
-  (scramble? "katas" "steak") ;; => false
-  (scramble? "abc" "aabc") ;; => false
-  )
+  (scramble? "aaghtilo" "tiago"))
+
